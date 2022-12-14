@@ -1,4 +1,4 @@
-# CSCI455
+# CSCI455 (5 PAs)
 Programming Assignments for CSCI455
 
 PA1: Coin Toss Simulator
